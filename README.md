@@ -1,8 +1,7 @@
-# 30 Days with LAST Stack
-
-Well hi there! This repository holds the code and script for the
-[30 Days with LAST Stack](https://symfonycasts.com/screencast/30-days-last)
-course on SymfonyCasts.
+# LEARN LAST ( Live components, Asset mapper, Stimulus and Turbo )
+In this tutorial, I will learn/use the new components of Symfony 
+LAST (Live components, Asset mapper, Stimulus, and Turbo)
+by applying them to a concrete example, such as creating an extraterrestrial travel agency.
 
 ## Setup
 
@@ -63,7 +62,7 @@ Then, to start the web server, open a terminal, move into the
 project, and run:
 
 ```
-symfony serve
+symfony serve:start -d
 ```
 
 (If this is your first time using this command, you may see an
@@ -78,8 +77,4 @@ Have fun!
 If you have suggestions or questions, please feel free to open an issue
 on this repository or comment on the course itself. We're watching both :).
 
-## Thanks!
 
-And as always, thanks so much for your support and letting us do what we love!
-
-<3 Your friends at SymfonyCasts
