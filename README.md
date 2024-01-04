@@ -16,6 +16,8 @@ and then run:
 
 ```
 composer install
+
+composer dump-env dev # To create dev environment
 ```
 
 ### Database Setup
@@ -71,10 +73,5 @@ error that you need to run `symfony server:ca:install` first).
 Now check out the site at `https://localhost:8000`
 
 Have fun!
-
-## Have Ideas, Feedback or an Issue?
-
-If you have suggestions or questions, please feel free to open an issue
-on this repository or comment on the course itself. We're watching both :).
 
 
