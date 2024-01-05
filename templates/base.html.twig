@@ -21,6 +21,11 @@
                             <img src="{{ asset('images/logo.png') }}" width="50" alt="Space Inviters Logo" >
                         </a>
                         <a href="{{ path('app_homepage') }}" class="text-xl ml-3">Space Inviters</a>
+                        {#  Utiliser le préchargement si on est sur que la prochaine
+                            step de l'utilisateur c'est de cliquer sur ce lien
+
+                            <a href="{{ path('app_voyage_index') }}" class="ml-6 hover:text-gray-400" data-turbo-preload>Voyages</a>
+                        #}
                         <a href="{{ path('app_voyage_index') }}" class="ml-6 hover:text-gray-400">Voyages</a>
                         <a href="{{ path('app_planet_index') }}" class="ml-4 hover:text-gray-400">Planets</a>
                     </div>

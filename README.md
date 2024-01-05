@@ -3,6 +3,12 @@ In this tutorial, I will learn/use the new components of Symfony
 LAST (Live components, Asset mapper, Stimulus, and Turbo)
 by applying them to a concrete example, such as creating an extraterrestrial travel agency.
 
+### Technology used for this project
+
+1. [x] Symfony 6.4
+2. [x] PHP 8.2
+
+
 ## Setup
 
 If you've just downloaded the code, congratulations!!
